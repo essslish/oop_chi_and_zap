@@ -1,0 +1,21 @@
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\bin\Debug\Algorithms C#.exe.config
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\bin\Debug\Algorithms C#.exe
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\bin\Debug\Algorithms C#.pdb
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.csproj.AssemblyReference.cache
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.csproj.CoreCompileInputs.cache
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\obj\Debug\Algorith.1D15E3B8.Up2Date
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.exe
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.pdb
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\bin\Debug\Newtonsoft.Json.dll
+C:\Users\natas\source\repos\Algorithms C#\Algorithms C#\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\bin\Debug\Algorithms C#.exe.config
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\bin\Debug\Algorithms C#.exe
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\bin\Debug\Algorithms C#.pdb
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.csproj.CopyComplete
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.exe
+C:\Users\user\Downloads\ООП_Практическая_работа_1_Запольская,_Чикарева\Algorithms C#\Algorithms C#\obj\Debug\Algorithms C#.pdb
